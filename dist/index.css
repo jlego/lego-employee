@@ -1,0 +1,7 @@
+.lego-employee {
+  line-height: 35px !important;
+  width: auto; }
+  .lego-employee > div {
+    line-height: 20px;
+    display: inline-block;
+    margin-right: 10px; }
